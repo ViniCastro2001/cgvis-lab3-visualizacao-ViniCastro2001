@@ -6,8 +6,8 @@
 
 ## Identificação
 
-- **Nome**: <mark>`<preencher>`</mark>
-- **Cartão UFRGS:** <mark>`<preencher>`</mark>
+- **Nome**: <mark>`Vinícius Gross Castro`</mark>
+- **Cartão UFRGS:** <mark>`00324541`</mark>
 
 ## Dados utilizados
 
@@ -17,11 +17,9 @@
 > - Se houver mais de um conjunto de dados, liste todos separadamente.
 > - Para cada conjunto de dados, inclua também uma **descrição curta** explicando os dados.
 
-1. **Dataset 1**: <mark>`<link>`</mark>
-    * **Descrição curta**: <mark>`<preencher>`</mark>
-2. **Dataset 2**: <mark>`<link>`</mark>
-    * **Descrição curta**: <mark>`<preencher>`</mark>
-3. ...
+1. **Dataset 1**: <mark>`https://myanimelist.net/topanime.php?type=bypopularity`</mark>
+    * **Descrição curta**: <mark>`Para criar a visualização, foram coletados os 50 primeiros animes do ranking de popularidade, incluíndo título, número de episódios, ano de lançamentoe número de "membros". No site, membros representam usuários que adicionaram o anime a sua lista pessoal de animes.`</mark>
+
 
 ## Código-fonte da visualização
 
@@ -29,8 +27,8 @@
 >
 > - Indique abaixo onde está, dentro deste repositório, o código-fonte usado para gerar a visualização.
 
-- **Arquivo principal**: <mark>`<preencher>`</mark>
-- **Arquivos complementares (se houver)**: <mark>`<preencher>`</mark>
+- **Arquivo principal**: <mark>`plot.R`</mark>
+- **Arquivos complementares (se houver)**: <mark>`dados/animes_mal.csv`</mark>
 
 ## Imagem da visualização gerada
 
@@ -52,7 +50,7 @@
 > - Escreva um texto curto explicando como interpretar a visualização. Descreva os elementos visuais, eixos, cores, símbolos ou interações relevantes.
 > - Este texto seria a legenda (*caption*) que acompanharia a figura em uma publicação, por exemplo.
 
-<mark>`<preencher>`</mark>
+<mark>`Visualização dos 50 animes mais populares do MyAnimeList em um gráfico de dispersão com bolhas. Cada bolha representa um anime diferente. O eixo horizontal mostra o ano de lançamento, e o eixo vertical indica o score médio no site. O tamanho da bolha representa o número de membros, isto é, a quantidade de usuários que adicionaram o anime a sua lista pessoal. A cor indica a década de lançamento. Os rótulos e setas identificam os títulos representados.`</mark>
 
 ### Conclusão demonstrada pela visualização
 
