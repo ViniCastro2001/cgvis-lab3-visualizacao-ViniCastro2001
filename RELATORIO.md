@@ -37,9 +37,8 @@
 > - Insira aqui uma imagem da visualização criada por você. Troque `imagem-da-visualizacao.png` pelo caminho correto do arquivo no repositório. 
 > - Se você criou alguma visualização interativa, então descreva aqui como acessá-la. Por exemplo, se for uma página HTML, coloque o link, ou se for uma visualização 3D, descreva como compilar e executar o código. 
 
-<mark>`<preencher abaixo>`</mark>
 
-![Visualização resultante](imagem-da-visualizacao.png)
+![Visualização resultante](imagens/animes_score_members_ano.png)
 
 ## Descrição da visualização
 
@@ -59,4 +58,4 @@
 > - Escreva uma conclusão curta sobre os dados com base na visualização.
 > - Explique qual insight, padrão ou tendência pode ser observado.
 
-<mark>`<preencher>`</mark>
+<mark>`A visualização demonstra que nem sempre boas avaliações andam junto com popularidade. Entre os 50 animes mais populares do MyAnimeList, muitos títulos possuem uma nota alta (acimade 8.0), porém nem todos animes populares são os mais bem avalidaos. É possível notar que existe uma concentração de animes lançados entre 2010 e 2020, enquanto existem poucos mais antigos no Top 50. Porém, os títulos antigos que continuam no Top 50 possuem excelentes scores. Nos levando a considerar que eles "sobreviveram ao teste do tempo", justamente por causa das suas boas avaliações. `</mark>
